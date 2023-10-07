@@ -1,0 +1,33 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2023-10-06 21:17:38 -0400"
+    },
+    "done": true
+  },
+  "aoa3:overworld/by_the_books": {
+    "criteria": {
+      "legitimate": "2023-10-06 21:17:38 -0400"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-10-06 21:17:38 -0400"
+    },
+    "done": true
+  },
+  "aoa3:overworld/root": {
+    "criteria": {
+      "playerjoin": "2023-10-06 21:17:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2023-10-06 21:17:38 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
